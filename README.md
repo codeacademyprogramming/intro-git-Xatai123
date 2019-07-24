@@ -2,4 +2,4 @@
 
 Burda sizin reklaminiz ola biler
 
-TEST TEST TESTP
+TEST TEST TEST
